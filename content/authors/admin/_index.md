@@ -3,7 +3,7 @@ title: Yiyang Chen
 role: Undergraduate Student
 avatar_filename: avatar.jpg
 bio: My research interests include macroeconomics policy, public finance, and
-  international economics
+  international economics.
 interests:
   - Macroeconomics
   - Public Finance
@@ -33,9 +33,9 @@ email: yiyangc@berkeley.edu
 superuser: true
 highlight_name: true
 ---
-Y﻿iyang Chen is a senior undergraduate student majoring in economics and computer science at University of California, Berkeley. His research interests include macroeconomics policy, public finance, and international economics. 
+Yiyang Chen is a senior undergraduate student majoring in economics and computer science at University of California, Berkeley. His research interests include macroeconomics policy, public finance, and international economics. 
 
-He served as research assistants for multiple professors and Ph.D. students at UC Berkeley, and worked a wide variety of economic research projects and also computer science projects. 
+He has served as research assistants for multiple professors and Ph.D. students at UC Berkeley, and worked on a wide variety of economic research projects and CS/DS projects. 
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV_Yiyang_CHEN_public.pdf" "newtab" >}}CV{{< /staticref >}}\
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/Yiyang Chen (2022) - Tax Revenue Cyclicality and Income Inequality - Evidence from U.S. Counties from 1989-2019.pdf" "newtab" >}}S﻿enior Honor Thesis{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/Yiyang Chen (2022) - Tax Revenue Cyclicality and Income Inequality - Evidence from U.S. Counties from 1989-2019.pdf" "newtab" >}}Senior Honor Thesis{{< /staticref >}}
