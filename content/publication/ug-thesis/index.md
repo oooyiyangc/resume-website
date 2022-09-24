@@ -8,8 +8,8 @@ authors:
   - admin
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
+# author_notes:
+#   - 'Equal contribution'
 #   - 'Equal contribution'
 
 date: '2022-05-01T00:00:00Z'
@@ -26,7 +26,7 @@ publication_types: ['7']
 
 # Publication name and optional abbreviated publication name.
 publication: UC Berkeley
-publication_short: u
+publication_short: 
 
 abstract: In my paper, I will examine how income inequality may be associated with the cyclicality of tax revenue chiefly using U.S. county individual taxable income data from 1989-2019. I will perform a panel regression analysis looking at how tax revenue cyclicality in each county varies by income inequality at the respective location. I find that the effect is significant across counties in the same time period, where counties with higher inequality tend to have a more volatile cyclical fluctuation of local tax revenue. However, it seems the rising income inequality over the past few decades had relatively small impact on tax revenue being more sensitive to the business cycle.
 
@@ -74,9 +74,9 @@ projects: []
 slides: ""
 ---
 
-<!-- {{% callout note %}}
+{{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}} -->
+{{% /callout %}}
 
 {{% callout note %}}
 Create your slides in Markdown - click the _Slides_ button to check out the example.
