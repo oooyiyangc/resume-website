@@ -25,6 +25,10 @@ feature:
     icon_pack: fab
     name: Python
   - description: 80%
+    icon: database
+    icon_pack: fas
+    name: SQL
+  - description: 80%
     icon: r-project
     icon_pack: fab
     name: R
