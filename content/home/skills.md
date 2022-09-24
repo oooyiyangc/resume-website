@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Skills
+title: Packages
 subtitle:
 
 # Showcase personal skills or business features.
@@ -22,14 +22,14 @@ feature:
   
   - description: 100%
     icon: python
-    icon_pack: fas
+    icon_pack: fab
     name: Python
   - description: 80%
     icon: r-project
     icon_pack: fab
     name: R
   - description: 50%
-    icon: chart-scatter
+    icon: chart-column
     icon_pack: fas
     name: Stata
 # Uncomment to use emoji icons.
