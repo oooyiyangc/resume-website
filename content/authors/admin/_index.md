@@ -37,5 +37,5 @@ Y﻿iyang Chen is a senior undergraduate student majoring in economics and compu
 
 He served as research assistants for multiple professors and Ph.D. students at UC Berkeley, and worked a wide variety of economic research projects and also computer science projects. 
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV_Yiyang_CHEN.pdf" "newtab" >}}CV{{< /staticref >}}\
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV_Yiyang_CHEN_public.pdf" "newtab" >}}CV{{< /staticref >}}\
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/Yiyang Chen (2022) - Tax Revenue Cyclicality and Income Inequality - Evidence from U.S. Counties from 1989-2019.pdf" "newtab" >}}S﻿enior Honor Thesis{{< /staticref >}}
