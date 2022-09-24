@@ -29,7 +29,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: yiyangc@berkeley.edu
-  phone: (510) 219-4858
+  # phone: (510) 219-4858
   # address:
   #   street: 450 Serra Mall
   #   city: Stanford
