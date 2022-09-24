@@ -43,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.yiyangchen.me/uploads/Yiyang%20Chen%20%282022%29%20-%20Tax%20Revenue%20Cyclicality%20and%20Income%20Inequality%20-%20Evidence%20from%20U.S.%20Counties%20from%201989-2019.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -74,9 +74,9 @@ projects: []
 slides: ""
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+{{% /callout %}} -->
 
 {{% callout note %}}
 Create your slides in Markdown - click the _Slides_ button to check out the example.
