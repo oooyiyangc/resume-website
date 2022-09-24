@@ -41,7 +41,7 @@ feature:
     icon_pack: fas
     name: Stata
   - description: 20%
-    icon: square-js
+    icon: js
     icon_pack: fab
     name: Javascript
 
