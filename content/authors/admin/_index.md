@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 bio: My research interests include macroeconomics policy, public finance, and
   international economics
 interests:
-  - Macroeconomics Policy
+  - Macroeconomics
   - Public Finance
   - International Economics
 social:
