@@ -1,7 +1,7 @@
 ---
 title: Yiyang Chen
 role: Undergraduate Student
-avatar_filename: profile_yiyangchen.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include macroeconomics policy, public finance, and
   international economics
 interests:
