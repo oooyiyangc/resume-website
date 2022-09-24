@@ -9,7 +9,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-#   - 'Equal contribution'
+  - 'Equal contribution'
 #   - 'Equal contribution'
 
 date: '2022-05-01T00:00:00Z'
@@ -26,9 +26,9 @@ publication_types: ['7']
 
 # Publication name and optional abbreviated publication name.
 publication: UC Berkeley
-publication_short: 
+publication_short: u
 
-abstract: Tax revenue is known to be pro-cyclical–it increases when the economy is booming, and falls when a recession takes over. It is important to understand the exact dynamics of these cyclical fluctuations of tax revenue as many offerings of the public goods, on top of other things, depend on the government budget, especially on a local level. Therefore, it is worthwhile to consider various factors that may have either strengthened or lessened the impact of business cycles on government tax revenue. In my paper, I will examine how income inequality may be associated with the cyclicality of tax revenue chiefly using U.S. county individual taxable income data from 1989-2019. I will perform a panel regression analysis looking at how tax revenue cyclicality in each county varies by income inequality at the respective location. I find that the effect is significant across counties in the same time period, where counties with higher inequality tend to have a more volatile cyclical fluctuation of local tax revenue. However, it seems the rising income inequality over the past few decades had relatively small impact on tax revenue being more sensitive to the business cycle.
+abstract: In my paper, I will examine how income inequality may be associated with the cyclicality of tax revenue chiefly using U.S. county individual taxable income data from 1989-2019. I will perform a panel regression analysis looking at how tax revenue cyclicality in each county varies by income inequality at the respective location. I find that the effect is significant across counties in the same time period, where counties with higher inequality tend to have a more volatile cyclical fluctuation of local tax revenue. However, it seems the rising income inequality over the past few decades had relatively small impact on tax revenue being more sensitive to the business cycle.
 
 # Summary. An optional shortened abstract.
 summary: I examined how income inequality is associated with the tax revenue cyclicality chiefly using U.S. county individual taxable income data from 1989-2019.
@@ -43,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.yiyangchen.me/uploads/Yiyang%20Chen%20%282022%29%20-%20Tax%20Revenue%20Cyclicality%20and%20Income%20Inequality%20-%20Evidence%20from%20U.S.%20Counties%20from%201989-2019.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
