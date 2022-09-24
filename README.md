@@ -1,4 +1,5 @@
-# [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
+# [Yiyang's Personal Website](https://www.yiyangchen.me/)
+Made with [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
 
