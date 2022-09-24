@@ -24,6 +24,10 @@ feature:
     icon: python
     icon_pack: fab
     name: Python
+  - description: 100%
+    icon: book
+    icon_pack: fab
+    name: Jupyter Notebook
   - description: 80%
     icon: database
     icon_pack: fas
@@ -36,6 +40,11 @@ feature:
     icon: chart-column
     icon_pack: fas
     name: Stata
+  - description: 20%
+    icon: square-js
+    icon_pack: fab
+    name: Javascript
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
