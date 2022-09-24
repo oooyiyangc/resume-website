@@ -1,6 +1,6 @@
 ---
 title: Yiyang Chen
-role: Undergraduate Student (Economics, Computer Science)
+role: Undergraduate Student
 avatar_filename: profile_yiyangchen.jpg
 bio: My research interests include macroeconomics policy, public finance, and
   international economics
@@ -35,6 +35,5 @@ highlight_name: true
 ---
 Y﻿iyang Chen is a senior undergraduate student majoring in economics and computer science at University of California, Berkeley. His research interests include macroeconomics policy, public finance, and international economics. He served as research assistants for multiple professors and Ph.D. students at UC Berkeley, and worked a wide variety of economic research projects and also computer science projects. 
 
-{{< icon name="download" pack="fas" >}} My {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
-
-{{< icon name="download" pack="fas" >}} My {{< staticref "uploads/demo_resume.pdf" "newtab" >}}s﻿enior honor thesis{{< /staticref >}}.<
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/demo_resume.pdf" "newtab" >}}S﻿enior Honor Thesis{{< /staticref >}}
