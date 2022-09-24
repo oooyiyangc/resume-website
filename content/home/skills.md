@@ -26,7 +26,7 @@ feature:
     name: Python
   - description: 100%
     icon: book
-    icon_pack: fab
+    icon_pack: fas
     name: Jupyter Notebook
   - description: 80%
     icon: database
