@@ -48,7 +48,7 @@ experience:
     date_start: '2021-09-01'
     date_end: ''
     description: |2-
-        · Work as teaching assistant for [Data 88E](https://data-88e.github.io/)
+        · Work as teaching assistant for [Data 88E](https://data-88e.github.io/)  
         · Develop and update course content (including textbook, lecture and lab notebooks)  
         · Give lectures; hold regular office hours; manage class logistics (websites, discussion forums, etc.)
 
