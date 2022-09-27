@@ -14,7 +14,7 @@ author_notes:
   - 'Equal contribution'
 
 date: '2018-12-29T00:00:00Z'
-doi: 'https://doi.org/10.26417/ejme.v1i3.p44-52'
+doi: '10.26417/ejme.v1i3.p44-52'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2018-12-29T00:00:00Z'
