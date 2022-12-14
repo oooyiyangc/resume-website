@@ -25,12 +25,12 @@ feature:
     icon_pack: fab
     name: Python
   - description: 100%
-    icon: book
-    icon_pack: fas
+    icon: jupyter_blue
+    icon_pack: custom
     name: Jupyter Notebook
   - description: 80%
-    icon: chart-column
-    icon_pack: fas
+    icon: stata_blue
+    icon_pack: custom
     name: Stata
   - description: 80%
     icon: database
@@ -41,7 +41,7 @@ feature:
     icon_pack: fab
     name: R
   - description: 50%
-    icon: matlab
+    icon: matlab_blue
     icon_pack: custom
     name: Matlab
   # - description: 20%
