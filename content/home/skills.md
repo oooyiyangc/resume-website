@@ -29,6 +29,10 @@ feature:
     icon_pack: fas
     name: Jupyter Notebook
   - description: 80%
+    icon: chart-column
+    icon_pack: fas
+    name: Stata
+  - description: 80%
     icon: database
     icon_pack: fas
     name: SQL
@@ -37,13 +41,12 @@ feature:
     icon_pack: fab
     name: R
   - description: 50%
-    icon: chart-column
-    icon_pack: fas
-    name: Stata
-  - description: 20%
-    icon: js
-    icon_pack: fab
-    name: Javascript
+    icon: assets/media/icons/brands/matlab
+    name: Matlab
+  # - description: 20%
+  #   icon: js
+  #   icon_pack: fab
+  #   name: Javascript
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
