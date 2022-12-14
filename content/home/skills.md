@@ -41,7 +41,8 @@ feature:
     icon_pack: fab
     name: R
   - description: 50%
-    icon: assets/media/icons/brands/matlab
+    icon: matlab
+    icon_pack: custom
     name: Matlab
   # - description: 20%
   #   icon: js
