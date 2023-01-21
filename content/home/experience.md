@@ -48,9 +48,9 @@ experience:
     date_start: '2021-09-01'
     date_end: ''
     description: |2-
-        · Work as teaching assistant for [Data 88E: Economic Models](https://data-88e.github.io/)  
+        · Work as teaching assistant for [Econ 148: Data Science for Economists](https://www.econ148.org/) and [Data 88E: Economic Models](https://data-88e.github.io/)  
         · Develop and update course content (including textbook, lecture and lab notebooks)  
-        · Give lectures; hold regular office hours; manage class logistics (websites, discussion forums, etc.)
+        · Give lectures; hold discussion sections and office hours; manage class logistics (websites, discussion forums, etc.)
 
 
   - title: Peer Tutor and Course Liaison
