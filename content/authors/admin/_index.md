@@ -37,7 +37,7 @@ Yiyang Chen is a senior undergraduate student majoring in economics and computer
 
 He has served as research assistants for multiple professors and Ph.D. students at UC Berkeley, and worked on a wide variety of economic research projects and CS/DS projects. 
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV_Yiyang_CHEN_public.pdf" "newtab" >}}CV{{< /staticref >}}\
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV_Yiyang_CHEN_public.pdf" "newtab" >}}CV{{< /staticref >}}
 {{< icon name="download" pack="fas" >}} [Senior Honor Thesis](https://www.econ.berkeley.edu/sites/default/files/CHEN_Yiyang_Spring%202022.pdf)
 
 <!-- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV_Yiyang_CHEN_public.pdf" "newtab" >}}CV{{< /staticref >}}\
