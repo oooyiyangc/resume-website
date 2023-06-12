@@ -31,9 +31,9 @@ experience:
     date_start: '2020-09-01'
     date_end: ''
     description: |2-
-        · *(Fall 2022 till now)* **Assisting Prof. Ulrike Malmendier on “Politician Voting”**: Assemble datasets from CRSP, stockwatcher, and other sources; perform analysis on how politicians’ life experience affect their voting decisions and investment decisions  
+        · *(Fall 2022 – Spring 2023)* **Assisting Prof. Ulrike Malmendier on “Politician Voting”**: Assemble datasets from CRSP, stockwatcher, and other sources; perform analysis on how politicians’ life experience affect their voting decisions and investment decisions  
 
-        · *(Fall 2022 till now)* **Assisting Prof. Robert Edelstein on “Globalization and Climate Change”**: Assemble warm-house gases and sustainable technology datasets; examine causal relationship with natural experiments  
+        · *(Fall 2022)* **Assisting Prof. Robert Edelstein on “Globalization and Climate Change”**: Assemble warm-house gases and sustainable technology datasets; examine causal relationship with natural experiments  
 
         · *(Fall 2021 – Spring 2022)* **Assisting Oliver Kim (PhD) and Joel Ferguson (PhD) on “Satellite Imagery and Historical East Asian Economic Growth”**: Apply machine learning methods and train satellite data to predict Chinese economic growth status during 1950-1960s; gather gazetteer data and fetch geographical information used in training  
 
