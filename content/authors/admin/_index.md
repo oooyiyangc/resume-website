@@ -1,6 +1,6 @@
 ---
 title: Yiyang Chen
-role: Undergraduate Student
+role: Pre-doc Research Fellow
 avatar_filename: avatar.jpg
 bio: My research interests include macroeconomics policy, development economics, and machine learning.
 interests:
