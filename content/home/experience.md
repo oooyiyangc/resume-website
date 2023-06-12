@@ -24,12 +24,22 @@ date_format: Jan 2006
 experience:
 
   - title: Research Assistant
+    company: Harvard University
+    company_url: ''
+    company_logo: harvard
+    location: Massachusetts
+    date_start: '2023-07-01'
+    date_end: ''
+    description: |2-
+        · Assist Professor Melissa Dell with research related to economic growth and political economy, developing deep learning methods to extract and analyze novel datasets. 
+
+  - title: Research Assistant
     company: University of California, Berkeley
     company_url: ''
     company_logo: ucberkeley
     location: California
     date_start: '2020-09-01'
-    date_end: ''
+    date_end: '2023-06-01'
     description: |2-
         · *(Fall 2022 – Spring 2023)* **Assisting Prof. Ulrike Malmendier on “Politician Voting”**: Assemble datasets from CRSP, stockwatcher, and other sources; perform analysis on how politicians’ life experience affect their voting decisions and investment decisions  
 
@@ -46,7 +56,7 @@ experience:
     company_logo: ucberkeley
     location: California
     date_start: '2021-09-01'
-    date_end: ''
+    date_end: '2023-06-01'
     description: |2-
         · Work as teaching assistant for [Econ 148: Data Science for Economists](https://www.econ148.org/)   
         and [Data 88E: Economic Models](https://data-88e.github.io/)  
