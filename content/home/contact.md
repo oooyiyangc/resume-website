@@ -28,7 +28,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: yiyangc@berkeley.edu
+  email: yiyangc[at]berkeley.edu
   # phone: (510) 219-4858
   # address:
   #   street: 450 Serra Mall

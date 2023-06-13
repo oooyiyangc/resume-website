@@ -28,7 +28,7 @@ education:
     - course: BA in Computer Science
       institution: University of California, Berkeley
       year: 2023
-email: yiyangc[at]berkeley.edu
+email: yiyangc@berkeley.edu
 superuser: true
 highlight_name: true
 ---
