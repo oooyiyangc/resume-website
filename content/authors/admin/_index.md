@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:yiyangc@berkeley.edu
+    link: mailto:yiyangchen@fas.harvard.edu
   - icon: github
     icon_pack: fab
     link: https://github.com/oooyiyangc
