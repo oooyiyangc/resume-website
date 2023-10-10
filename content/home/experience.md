@@ -31,9 +31,9 @@ experience:
     date_start: '2023-07-01'
     date_end: ''
     description: |2-
-        · Assist Professor Melissa Dell with research related to economic history and political economy, developing deep learning methods to extract and analyze novel datasets. 
-        · Developed deep learning pipeline to deduplicate and cluster newspaper scan images
-        · Supervised training and evaluation of topic classifiers on newspaper texts; created a pipeline to incorporate GPT
+        · Assist Professor Melissa Dell with research related to economic history and political economy, developing deep learning methods to extract and analyze novel datasets   
+        · Developed deep learning pipeline to deduplicate and cluster newspaper scan images  
+        · Supervised training and evaluation of topic classifiers on newspaper texts; created a pipeline to incorporate GPT  
 
 
   - title: Research Assistant
