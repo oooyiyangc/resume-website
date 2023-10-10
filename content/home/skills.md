@@ -20,27 +20,27 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   
-  - description: 100%
+  - description: Expert
     icon: python
     icon_pack: fab
     name: Python
-  - description: 100%
+  - description: Expert
     icon: jupyter_blue
     icon_pack: custom
     name: Jupyter Notebook
-  - description: 80%
+  - description: Proficient
     icon: stata_blue
     icon_pack: custom
     name: Stata
-  - description: 80%
+  - description: Proficient
     icon: database
     icon_pack: fas
     name: SQL
-  - description: 80%
+  - description: Intermediate
     icon: r-project
     icon_pack: fab
     name: R
-  - description: 50%
+  - description: Intermediate
     icon: matlab_blue
     icon_pack: custom
     name: Matlab
