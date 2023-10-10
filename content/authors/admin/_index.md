@@ -10,13 +10,13 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:yiyangchen@fas.harvard.edu
+    link: mailto:ooyiyangc@gmail.com
   - icon: github
     icon_pack: fab
     link: https://github.com/oooyiyangc
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/yiyang-chen-7a2750226/
+    link: https://www.linkedin.com/in/yiyangc/
 organizations:
   - name: Harvard University
     url: https://www.harvard.edu/
@@ -28,17 +28,17 @@ education:
     - course: BA in Computer Science
       institution: University of California, Berkeley
       year: 2023
-email: yiyangchen@fas.harvard.edu
+email: ooyiyangc@gmail.com
 superuser: true
 highlight_name: true
 ---
-I am an Economics Pre-doc research fellow at Harvard University with Melissa Dell, working on deep learning methods and its application in development economics. 
+I am an Economics Pre-doc research fellow at Harvard University with Melissa Dell, working on deep learning methods and its application in political economy and economic history. 
 
-I have a Bachelor's degree in Economics and Computer Science at University of California, Berkeley. I have served as research assistants for multiple professors and Ph.D. students at UC Berkeley, and worked on a wide variety of economic research projects and CS/DS projects. 
+I have a Bachelor's degree in Economics and Computer Science at University of California, Berkeley. I served as research assistants for multiple professors and Ph.D. students at UC Berkeley, and worked on a wide variety of economic research projects and CS/DS projects. 
 
 My research interests include macroeconomics policy, development economics, and machine learning.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV_Yiyang_CHEN_public.pdf" "newtab" >}}CV{{< /staticref >}}  
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume_Yiyang_CHEN.pdf" "newtab" >}}CV{{< /staticref >}}  
 {{< icon name="download" pack="fas" >}} [Senior Honor Thesis](https://www.econ.berkeley.edu/sites/default/files/CHEN_Yiyang_Spring%202022.pdf)
 
 <!-- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV_Yiyang_CHEN_public.pdf" "newtab" >}}CV{{< /staticref >}}\
