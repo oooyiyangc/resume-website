@@ -28,7 +28,8 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: yiyangchen[at]fas[dot]harvard[dot]edu
+  email: ooyiyangc@gmail.com
+  email: yiyangc@berkeley.edu
   # phone: (510) 219-4858
   # address:
   #   street: 450 Serra Mall
