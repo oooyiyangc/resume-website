@@ -14,7 +14,7 @@ image:
 
 <center>Source: Federal Reserve Economic Data</center>
 
-
+<br>
 
 If the Federal Reserve did a good job anchoring the inflation expectation, then it is natural to assume that the market forecast of both the federal funds rate and the inflation rate would (at least roughly) align with those made by the Federal Reserve board. But it seems like this assumption comes with some caveats. 
 
@@ -22,5 +22,6 @@ In the chart above, the red line is the average market yield for long-term TIPS.
 
 One can easily observe a clear divergence of these two measures starting around the COVID pandemic. 
 
+<br>
 
 
