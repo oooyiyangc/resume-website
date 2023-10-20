@@ -23,6 +23,13 @@ In the chart above, the red line is the average market yield on long-term TIPS. 
 It is easy to see that these two measures began to diverge around the COVID pandemic. 
 
 
+<center><iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1anwi&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe></center>
+
+<center>Source: Federal Reserve Economic Data</center>
+
+
+On the other hand, inflation expectation seems to be well-anchored as the 10-year breakeven inflation rate continues to stay close to 2\%. In this case, the high yield rates for TIPS may imply that the market is expecting the Fed to hold the rates high for an extended period of time (perhaps even longer than those who sit in the FOMC meetings are expecting). 
+
 
 <br>
 
