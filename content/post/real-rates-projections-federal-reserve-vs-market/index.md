@@ -10,7 +10,7 @@ image:
   caption: "Image Credit: [Wall Street Journal](https://www.wsj.com/video/series/news-explainers/how-the-federal-reserve-makes-and-loses-money/4EF6A156-83FA-4DAD-9BFE-B396FE5BC382)"
 ---
 
-<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1anlD&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+<center><iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1anlD&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe></center>
 
 <center>Source: Federal Reserve Economic Data</center>
 
