@@ -18,9 +18,11 @@ image:
 
 If the Federal Reserve does a good job of forward guidance, then it is natural to assume that the market's forecast of both the federal funds rate and the inflation rate would be (at least roughly) in line with the Federal Reserve Board's forecast. However it seems that this assumption comes with some caveats. 
 
-In the chart above, the red line is the average market yield on long-term TIPS. And the blue line is the difference between the median projected federal funds rate and the median projected inflation--both from [the Summary of Economic Projects (SEP)](https://www.federalreserve.gov/monetarypolicy/guide-to-the-summary-of-economic-projections.htm). Inherently, both should represent the long-run real interest rate in the economy (they wouldn't match exactly though since TIPS is based on CPI while SEP is projecting PCE). 
+In the chart above, the red line is the average market yield on long-term TIPS. And the blue line is the difference between the median projected federal funds rate and the median projected inflation--both from [the Summary of Economic Projections (SEP)](https://www.federalreserve.gov/monetarypolicy/guide-to-the-summary-of-economic-projections.htm). Inherently, both should represent the long-run real interest rate in the economy (they wouldn't match exactly though since TIPS is based on CPI while SEP is projecting PCE). 
 
 It is easy to see that these two measures began to diverge around the COVID pandemic. 
+
+
 
 <br>
 
