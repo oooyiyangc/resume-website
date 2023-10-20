@@ -30,7 +30,7 @@ It is easy to see that these two measures began to diverge around the COVID pand
 
 <br>
 
-On the other hand, inflation expectation seems to be well-anchored as the 10-year breakeven inflation rate continues to stay close to 2\%. In this case, the high yield rates for TIPS may imply that the market is expecting the Fed to hold the rates high for an extended period of time (perhaps even longer than those who sit in the FOMC meetings are expecting). 
+On the other hand, the inflation expectation seems well anchored as the 10-year breakeven inflation rate continues to hover near 2\%. In this case, the high yields on TIPS may indicate that the market expects the Fed to keep rates high for an extended period of time (perhaps even longer than those at the FOMC meetings expect).
 
 
 <br>
