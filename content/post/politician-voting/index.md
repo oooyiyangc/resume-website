@@ -3,7 +3,7 @@ title: Politician Voting Project Notes
 subtitle: 
 date: 2023-04-10T00:00:00Z
 summary: Here are the documentations for my contributions in this project. 
-draft: false
+draft: true
 featured: false
 authors:
   - admin
