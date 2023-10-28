@@ -4,7 +4,6 @@ date: 2023-10-20T00:37:01.137Z
 draft: false
 featured: false
 image:
-  filename: im-656951.jpg
   focal_point: Smart
   preview_only: false
   caption: "Image Credit: [Wall Street Journal](https://www.wsj.com/video/series/news-explainers/how-the-federal-reserve-makes-and-loses-money/4EF6A156-83FA-4DAD-9BFE-B396FE5BC382)"
@@ -30,7 +29,7 @@ It is easy to see that these two measures began to diverge around the COVID pand
 
 <br>
 
-On the other hand, the inflation expectation seems well anchored as the 10-year breakeven inflation rate continues to hover near 2\%. In this case, the high yields on TIPS may indicate that the market expects the Fed to keep rates high for an extended period of time (perhaps even longer than those at the FOMC meetings expect).
+On the other hand, the inflation expectation seems well-anchored as the 10-year breakeven inflation rate continues to hover near 2\%. In this case, the high yields on TIPS may indicate that the market expects the Fed to keep rates high for an extended period of time (perhaps even longer than those at the FOMC meetings expect).
 
 
 <br>
