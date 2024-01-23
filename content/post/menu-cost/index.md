@@ -28,39 +28,7 @@ When the firm increases prices, the initial menu costs are low, but the costs wi
 The menu cost curve is responsive to inflation and inflation expectations. When inflation and inflation expectations are high, the right tail curve are steeper (i.e. more costs associated with one unit of price increase)
 
 Here's the menu cost curve visualized:  
-
-<html>
-  <head>
-    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-    <script type="text/javascript">
-      google.charts.load('current', {'packages':['corechart']});
-      google.charts.setOnLoadCallback(drawChart);
-
-      function drawChart() {
-        var data = google.visualization.arrayToDataTable([
-          ['Year', 'Sales', 'Expenses'],
-          ['2004',  1000,      400],
-          ['2005',  1170,      460],
-          ['2006',  660,       1120],
-          ['2007',  1030,      540]
-        ]);
-
-        var options = {
-          title: 'Company Performance',
-          curveType: 'function',
-          legend: { position: 'bottom' }
-        };
-
-        var chart = new google.visualization.LineChart(document.getElementById('curve_chart'));
-
-        chart.draw(data, options);
-      }
-    </script>
-  </head>
-  <body>
-    <div id="curve_chart" style="width: 900px; height: 500px"></div>
-  </body>
-</html>
+{{< figure src="menu-cost.png" title="Menu cost curve" >}}
 
 To explain why these three properties make sense, let's consider a grocery store that can set prices independently and let's consider a local oligopoly setup where there are a few other similar grocery stores in the same place. Consumers exhibit "lock-in" effects (i.e. they are partially "locked into" purchasing from a particular store once they have begun purchasing from  it). 
 
@@ -71,6 +39,8 @@ Therefore, the first property comes naturally. There is almost no cost to lower 
 As the store increases the prices of goods, there is a margin that the consumers will not be conscious of. Maybe Safeway sells a dozen coke a few dollars more expensive than in Target, but most consumers won't notice and churn. However, there must be an upper limit. When the consumers realize that Safeway is selling it much more expensive than Target, they will not continue to do their shopping at Safeway. Therefore, the initial cost of increasing prices is low, but the costs will grow faster than linear. This is the second property. 
 
 The third property decrees that the upward price change costs are larger when inflation and inflation expectation is lower. This is the most important property. High inflation (or inflation expectation) in the economy has two implications: a) the competing firms are also subject to higher costs and more likely to increase prices, b) the consumers will be more "forgiving" when they see a price increase. Therefore, since the store will have less "worry" of losing customers when they decide to increase prices in the period of high inflation, the associated cost will be lower. 
+
+{{< figure src="menu-cost-dynamics.png" title="Menu cost curve in low vs high inflation" >}}
 
 <br>
 
