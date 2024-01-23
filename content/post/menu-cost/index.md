@@ -15,7 +15,8 @@ tags:
 
 
 ## Proposition: A Model with Insights from Competition
-Three properties:  
+
+The model will feature the following three properties:  
 
 1. Asymmetric  
 The cost to decrease prices is virtually zero while the cost to increase prices is positive.
@@ -27,7 +28,39 @@ When the firm increases prices, the initial menu costs are low, but the costs wi
 The menu cost curve is responsive to inflation and inflation expectations. When inflation and inflation expectations are high, the right tail curve are steeper (i.e. more costs associated with one unit of price increase)
 
 Here's the menu cost curve visualized:  
-{image here}
+
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart);
+
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ['Year', 'Sales', 'Expenses'],
+          ['2004',  1000,      400],
+          ['2005',  1170,      460],
+          ['2006',  660,       1120],
+          ['2007',  1030,      540]
+        ]);
+
+        var options = {
+          title: 'Company Performance',
+          curveType: 'function',
+          legend: { position: 'bottom' }
+        };
+
+        var chart = new google.visualization.LineChart(document.getElementById('curve_chart'));
+
+        chart.draw(data, options);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="curve_chart" style="width: 900px; height: 500px"></div>
+  </body>
+</html>
 
 To explain why these three properties make sense, let's consider a grocery store that can set prices independently and let's consider a local oligopoly setup where there are a few other similar grocery stores in the same place. Consumers exhibit "lock-in" effects (i.e. they are partially "locked into" purchasing from a particular store once they have begun purchasing from  it). 
 
@@ -40,7 +73,6 @@ As the store increases the prices of goods, there is a margin that the consumers
 The third property decrees that the upward price change costs are larger when inflation and inflation expectation is lower. This is the most important property. High inflation (or inflation expectation) in the economy has two implications: a) the competing firms are also subject to higher costs and more likely to increase prices, b) the consumers will be more "forgiving" when they see a price increase. Therefore, since the store will have less "worry" of losing customers when they decide to increase prices in the period of high inflation, the associated cost will be lower. 
 
 <br>
-
 
 ## How is it a better flavor of nominal rigidity?
 1. Persistent Price Shocks
@@ -56,6 +88,7 @@ Now we begin phase 2. As some firms start to increase their prices, the overall 
 
 This can generate persistent price shocks and offer an explanation for the inflation spiral. 
 
+<br>
 
 ## Empirical examination
 There are several empirical examinations that we could do to determine if this proposition is in line with reality or not.
