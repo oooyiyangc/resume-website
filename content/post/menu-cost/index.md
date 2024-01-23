@@ -34,7 +34,7 @@ Here's the menu cost curve visualized:
 
 To explain why these three properties make sense, let's consider a grocery store that can set prices independently and let's consider a local oligopoly setup where there are a few other similar grocery stores in the same place. Consumers exhibit "lock-in" effects (i.e. they are partially "locked into" purchasing from a particular store once they have begun purchasing from  it). 
 
-First of all, I would like to clarify that the menu cost here should not be taken at face value--it is not the technological barrier to change prices (like replacing the physical menus and price tags) that is considered as the main source of menu costs ([Nakamura, Steinsson, Sun and Villar 2018](https://eml.berkeley.edu/~enakamura/papers/costsinflation.pdf)) But rather the costs (or the fear) of potentially losing locked-in consumers when they increase the prices higher than their competitors. 
+First of all, I would like to clarify that the menu cost here should not be taken at face value--it is not the technological barrier to change prices (like replacing the physical menus and price tags) that is the main source of menu costs (See [Nakamura, Steinsson, Sun and Villar 2018](https://eml.berkeley.edu/~enakamura/papers/costsinflation.pdf) for evidence why this is true) But rather we are considering the costs (or the fear) of potentially losing locked-in consumers when they increase the prices higher than their competitors. 
 
 Therefore, the first property comes naturally. There is almost no cost to lower prices, but the costs to increase prices will be high. 
 
