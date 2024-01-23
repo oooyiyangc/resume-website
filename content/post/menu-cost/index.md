@@ -11,8 +11,10 @@ tags:
   - research ideas
 ---
 
+<!---
 ## Current Formulations and its Shortcomings
-
+TODO
+-->
 
 ## Proposition: A Model with Insights from Competition
 
@@ -32,7 +34,7 @@ Here's the menu cost curve visualized:
 
 To explain why these three properties make sense, let's consider a grocery store that can set prices independently and let's consider a local oligopoly setup where there are a few other similar grocery stores in the same place. Consumers exhibit "lock-in" effects (i.e. they are partially "locked into" purchasing from a particular store once they have begun purchasing from  it). 
 
-First of all, I would like to clarify that the menu cost here should not be taken at face value--it is not the technological barrier to change prices (like replacing the physical menus and price tags) that is considered as the main source of menu costs (Nakamura, Steisson, Sun and Villar 2018) But rather the costs (or the fear) of potentially losing locked-in consumers when they increase the prices higher than their competitors. 
+First of all, I would like to clarify that the menu cost here should not be taken at face value--it is not the technological barrier to change prices (like replacing the physical menus and price tags) that is considered as the main source of menu costs ([Nakamura, Steinsson, Sun and Villar 2018](https://eml.berkeley.edu/~enakamura/papers/costsinflation.pdf)) But rather the costs (or the fear) of potentially losing locked-in consumers when they increase the prices higher than their competitors. 
 
 Therefore, the first property comes naturally. There is almost no cost to lower prices, but the costs to increase prices will be high. 
 
@@ -63,8 +65,9 @@ This can generate persistent price shocks and offer an explanation for the infla
 ## Empirical examination
 There are several empirical examinations that we could do to determine if this proposition is in line with reality or not.
  
-Regional oligopolies: naturally, if a certain city offers fewer choices of grocery shopping (an extreme example: only one supermarket exists in the radius of 100 miles), then it faces less competition. We can test if the prices in these places are more flexible than other regions where competition is more tangible.
-Speed of inflation: as implied by our two phase hypothesis, the inflation rate would start to increase slowly, then faster. 
+1. Regional oligopolies: naturally, if a certain city offers fewer choices of grocery shopping (an extreme example: only one supermarket exists in the radius of 100 miles), then it faces less competition. We can test if the prices in these places are more flexible than other regions where competition is more tangible.
+
+2. Speed of inflation: as implied by our two phase hypothesis, the inflation rate would start to increase slowly, then faster. 
 
 
 <br>
