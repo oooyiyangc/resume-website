@@ -8,6 +8,11 @@ image:
   preview_only: true
   caption: "Image credit: [Nation's Restaurant News](https://www.nrn.com/finance/smart-way-raise-restaurant-menu-prices)"
 tags:
+  - research
+  - macroeconomics
+  - theory
+  - inflation
+categories:
   - research ideas
 ---
 
