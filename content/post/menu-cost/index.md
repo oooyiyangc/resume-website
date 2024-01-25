@@ -1,5 +1,5 @@
 ---
-title: "Proposition: A Competition Model of Menu Cost"
+title: "A Competition Model of Menu Cost"
 date: 2024-01-23T00:37:01.137Z
 draft: false
 featured: false
@@ -21,25 +21,28 @@ categories:
 TODO
 -->
 
-## Proposition: A Model with Insights from Competition
+## The Model
 
 The model will feature the following three properties:  
 
 1. Asymmetric  
-The cost to decrease prices is virtually zero while the cost to increase prices is positive.
+The cost to decrease prices is a small constant while the cost to increase prices is positive and increasing in the size of price adjustment.
 
 2. Quadratic or exponential right tail  
-When the firm increases prices, the initial menu costs are low, but the costs will increase quadratically or exponentially as it wishes to increase another unit of prices.
+When the firm increases prices, the initial menu costs are low, but the costs will increase quadratically or exponentially as it wishes to increase another unit of prices. (The same setup as in [Rotemberg (1982)](https://www.jstor.org/stable/2297284))
 
 3. Responsive to current market inflation and inflation expectations  
-The menu cost curve is responsive to inflation and inflation expectations. When inflation and inflation expectations are high, the right tail curve are steeper (i.e. more costs associated with one unit of price increase)
+The menu cost curve is responsive to inflation and inflation expectations. When inflation and inflation expectations are low, the right tail curve are steeper (i.e. more costs associated with one unit of price increase)
 
 Here's the menu cost curve visualized:  
 {{< figure src="menu-cost.png" title="Menu cost curve" >}}
 
-To explain why these three properties make sense, let's consider a grocery store that can set prices independently and let's consider a local oligopoly setup where there are a few other similar grocery stores in the same place. Consumers exhibit "lock-in" effects (i.e. they are partially "locked into" purchasing from a particular store once they have begun purchasing from  it). 
+To explain why these three properties make sense, let's consider a grocery store that can set prices independently and let's consider a setup of oligopoly where there are a few other similar grocery stores in the same place. Consumers exhibit "lock-in" effects (i.e. they are partially "locked into" purchasing from a particular store once they have begun purchasing from it). 
 
-First of all, I would like to clarify that the menu cost here should not be taken at face value--it is not the technological barrier to change prices (like replacing the physical menus and price tags) that is the main source of menu costs (See [Nakamura, Steinsson, Sun and Villar 2018](https://eml.berkeley.edu/~enakamura/papers/costsinflation.pdf) for evidence why this is true) But rather we are considering the costs (or the fear) of potentially losing locked-in consumers when they increase the prices higher than their competitors. 
+First of all, I would like to clarify that the menu cost here should not be taken at face value--it is not the technological barrier to change prices (like replacing the physical menus and printing new price tags and catalogs) that is the main source of menu costs[^1]. But rather we are considering the costs (or the fear) of potentially losing locked-in consumers when they increase the prices higher than their competitors[^2]. 
+
+[^1]: See [Nakamura, Steinsson, Sun and Villar (2018)](https://eml.berkeley.edu/~enakamura/papers/costsinflation.pdf) for evidence why this is true. 
+[^2]: Barro (1972), Mussa (1976), Sheshinski and Weiss (1977)
 
 Therefore, the first property comes naturally. There is almost no cost to lower prices, but the costs to increase prices will be high. 
 
@@ -74,8 +77,8 @@ There are several empirical examinations that we could do to determine if this p
 
 2. Speed of inflation: as implied by our two phase hypothesis, the inflation rate would start to increase slowly, then faster. 
 
-
 <br>
+
 
 
 

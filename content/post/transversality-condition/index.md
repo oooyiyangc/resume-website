@@ -1,7 +1,7 @@
 ---
 title: "Too Much Capital Stock? "
 date: 2023-10-29T00:37:01.137Z
-draft: false
+draft: true
 featured: false
 image:
   focal_point: Smart
