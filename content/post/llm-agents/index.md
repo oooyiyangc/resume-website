@@ -1,7 +1,8 @@
 ---
 title: "Generative Agents and its Applications"
 date: 2024-01-23T00:37:01.137Z
-draft: true
+draft: false
+private: true
 featured: false
 image:
   focal_point: Smart
