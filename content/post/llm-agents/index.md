@@ -37,12 +37,10 @@ Here I will present some exciting papers that explore this field.
 
 ### Wei et. al (2023)
 A Survey on Large Language Model based Autonomous Agents, https://arxiv.org/abs/2308.11432
-<br>
-<figure>
-  <img src="https://github.com/Paitesanshi/LLM-Agent-Survey/blob/main/assets/trend.png" alt="LLM-Agent-Survey" style="width:50%">
-  <figcaption>https://github.com/Paitesanshi/LLM-Agent-Survey</figcaption>
-</figure>
-<br>
+
+{{< figure src="https://github.com/Paitesanshi/LLM-Agent-Survey/blob/main/assets/trend.png" title="https://github.com/Paitesanshi/LLM-Agent-Survey" >}}
+
+
 
 ## Evaluating LLM-agents
 
