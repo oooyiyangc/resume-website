@@ -59,10 +59,29 @@ influence the action module. In the following, we detail these modules." (Sectio
 
 {{< figure src="LLM-Agent-Survey-table-2.png" >}}
 
+Many papers fall into natural science and engineering, which is not our focus. 
+
+### Wang et al. (2023)
+Aligning Large Language Models with Human: A Survey, https://arxiv.org/pdf/2307.12966.pdf
+
+
+### Mialon et al. (2023)
+Augmented Language Models: a Survey, https://arxiv.org/abs/2302.07842
+
+Augmented language models are essentially language models "augmented" with reasoning skills and abilities to use tools. For example, it may be very hard for a language model to learn to do algebra, but it will be a reasonably simple task if the language model has access to a code interpreter. In this case, the language model needs to interpret the question, break it down into smaller components, generate code, and call the external code interpret to get the final answer.  
+
+Section 4 of the survey paper discusses reasoning. Two methods are presented: supervised learning through few-shot prompting and reinforcement learning. 
+
+
+
+<br>
 
 ## Evaluating LLM-agents
 
 
+
+
+<br>
 
 ## Applications in Economics
 
