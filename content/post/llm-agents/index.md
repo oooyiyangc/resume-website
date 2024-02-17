@@ -95,11 +95,20 @@ Large Language Models as Simulated Economic Agents: What Can We Learn from Homo 
 ### Bybee (2023)
 Surveying Generative AI's Economic Expectations, https://arxiv.org/abs/2305.02823
 
-### Li (2023)
+### Li et. al (2023)
 Large Language Model-Empowered Agents for Simulating Macroeconomic Activities, https://arxiv.org/abs/2310.10436
 
-### Shapira (2024)
+### Shapira et. al (2024)
 Can Large Language Models Replace Economic Choice Prediction Labs?, https://arxiv.org/abs/2401.17435
+
+### Yu et. al (2023)
+Temporal Data Meets LLM -- Explainable Financial Time Series Forecasting, https://arxiv.org/abs/2306.11025
+
+### Shao et. al (2024)
+SwarmBrain: Embodied agent for real-time strategy game StarCraft II via large language models, https://arxiv.org/abs/2401.17749
+
+(Not really econ, but optimal decision-making is the integral part of economics)
+
 
 
 
