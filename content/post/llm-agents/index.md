@@ -73,6 +73,10 @@ Augmented language models are essentially language models "augmented" with reaso
 Section 4 of the survey paper discusses reasoning. Two methods are presented: supervised learning through few-shot prompting and reinforcement learning. 
 
 
+### Gao et. al (2023)
+Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives, https://arxiv.org/abs/2312.11970
+
+
 
 <br>
 
@@ -84,6 +88,23 @@ Section 4 of the survey paper discusses reasoning. Two methods are presented: su
 <br>
 
 ## Applications in Economics
+
+### Horton (2023)
+Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?, https://www.nber.org/papers/w31122
+
+### Bybee (2023)
+Surveying Generative AI's Economic Expectations, https://arxiv.org/abs/2305.02823
+
+### Li (2023)
+Large Language Model-Empowered Agents for Simulating Macroeconomic Activities, https://arxiv.org/abs/2310.10436
+
+### Shapira (2024)
+Can Large Language Models Replace Economic Choice Prediction Labs?, https://arxiv.org/abs/2401.17435
+
+
+
+
+
 
 <br>
 
