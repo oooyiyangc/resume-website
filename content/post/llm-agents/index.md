@@ -40,6 +40,24 @@ A Survey on Large Language Model based Autonomous Agents, https://arxiv.org/abs/
 
 {{< figure src="LLM-Agent-Survey.png" title="https://github.com/Paitesanshi/LLM-Agent-Survey" >}}
 
+This paper surveys both the framework of LLM-based agents and its applications. 
+
+#### Framework
+
+> "We propose a unified framework to summarize these modules. In specific, the
+overall structure of our framework is illustrated Figure 2, which is composed of a profiling module, a
+memory module, a planning module, and an action module. The purpose of the profiling module is
+to identify the role of the agent. The memory and planning modules place the agent into a dynamic
+environment, enabling it to recall past behaviors and plan future actions. The action module is
+responsible for translating the agent’s decisions into specific outputs. Within these modules, the
+profiling module impacts the memory and planning modules, and collectively, these three modules
+influence the action module. In the following, we detail these modules." (Section 2.1)
+
+{{< figure src="LLM-Agent-Survey-figure-2">}}
+
+#### Applications
+
+{{< figure src="LLM-Agent-Survey-table-2">}}
 
 
 ## Evaluating LLM-agents
