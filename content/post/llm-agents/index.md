@@ -53,11 +53,11 @@ responsible for translating the agent’s decisions into specific outputs. Withi
 profiling module impacts the memory and planning modules, and collectively, these three modules
 influence the action module. In the following, we detail these modules." (Section 2.1)
 
-{{< figure src="LLM-Agent-Survey-figure-2" >}}
+{{< figure src="LLM-Agent-Survey-figure-2.png" >}}
 
 #### Applications
 
-{{< figure src="LLM-Agent-Survey-table-2" >}}
+{{< figure src="LLM-Agent-Survey-table-2.png" >}}
 
 
 ## Evaluating LLM-agents
