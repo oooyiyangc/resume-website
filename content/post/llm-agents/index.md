@@ -82,7 +82,10 @@ Large Language Models Empowered Agent-based Modeling and Simulation: A Survey an
 
 ## Evaluating LLM-agents
 
+### Park et. al (2023)
+Generative Agents: Interactive Simulacra of Human Behavior, https://arxiv.org/abs/2304.03442
 
+{{< figure src="featured.png" >}}
 
 
 <br>
