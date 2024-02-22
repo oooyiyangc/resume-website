@@ -68,6 +68,14 @@ After reestablishing a functioning economic base, China, under the leadership of
 
 Based on the discussions above, I propose that the structural transformation from an agricultural state into an industrial one that happened in China is a two-step process. The first step involves a relatively “authoritarian” approach to stimulate growth in the industrial sector, whereas both labor and technology are required in the process. The second step centers around the liberalization of markets, which unleashes the power of the “invisible hand”. 
 
+While most of our focus has been on the second step that brings about a good institution, the first step should not be ignored. The goal of the first step is to overcome the “fixed cost” to achieve labor and capital mobility in the early industrialization phase. 
+
+To do this, either one of the two needs to be satisfied:
+Endogenous: A boost in efficiency in the industrial sector to allow the industrial sector to overcome the initial fixed cost to move in both labor and capital. 
+Exogenous: Laws or rulings by a state, wars or conflicts, colonization, etc. that makes capital and labor flow to the industrial sector (even if it’s not necessary Pareto-efficient)
+
+The structural transformation in China in the 1950s and 60s seem to fall into the second category. And the United Kingdom seems to be a fixture of both: on one hand, the Industrial Revolution was underway; on the other hand, the [enclosure movement](https://en.wikipedia.org/wiki/Enclosure) drove surplus peasant labor from their farms to the towns to become industrial workers. It is considered by some scholars to be the beginnings of the emergence of capitalism.
+
 
 <br>
 
