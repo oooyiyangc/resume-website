@@ -46,10 +46,28 @@ The classic view is that development is about reallocation out of agriculture in
 [^3]: Rosenstein-Rodin (1943), Nurkse (1953), Lewis (1955), Rostow (1960)
 
 
-
 {{< figure src="sectoral_shares.jpg" title="Structural Transformation in China (1952-2013)\nSource: https://nakedkeynesianism.blogspot.com/2014/07/structural-transformation-in-china-1952.html" >}}
 
-China adopted this [three-sector accounting model](https://en.wikipedia.org/wiki/Three-sector_model), where the primary sector is mostly agricultural sector, the secondary sector is the manufacturing and industrial sector, and the tertiary sector is the service sector. We can see from the breakdown that while the size of agriculture diminished significantly, industry more or less reached its current level at the beginning of the opening period. Most of the growth in the post-liberalization period (post-1978) has been in services, which has gone hand in hand with the urbanization process.
+China adopted this [three-sector accounting model](https://en.wikipedia.org/wiki/Three-sector_model), where the primary sector is mostly agricultural sector, the secondary sector is the manufacturing and industrial sector, and the tertiary sector is the service sector. We can see from the breakdown that while the size of agriculture diminished significantly, industry more or less reached its current level at the beginning of the opening period. Most of the growth in the post-liberalization period (post-1978) has been in services, which has gone hand in hand with the urbanization process.[^4]
+
+[^4]: Note that the sharp increase in the secondary sector share could be a result from the decline in the primary sector, since they need to add up to 100%. But if the decline in the primary sector were the sole driver of this movement, we would also see a big increase in the tertiary sector, which is not really the case here. This suggests that at least some fraction of this big increase in the secondary sector is real. 
+
+There can be multiple ways to explain how China attained a high level of growth in the industrial sector in the 50s and continued in the 60s. First, the data is flawed and there are huge mismeasurements. There is a collection of literature that discusses this. Second, if we believe the data is telling the truth–the structural transformation was already starting to take place before either opening up or the Household Responsibility System (HRS)[^5]–then we may want to give some credit to the central planning that took place in the 50s and 60s. 
+
+[^5]: See [wikipedia](). Also [Lin (1988)](https://www.jstor.org/stable/1566543) is a famous one on this system.  
+
+## The Five-Year Plan
+
+[The Five-Year Plans](https://en.wikipedia.org/wiki/Five-year_plans_of_China) are a series of social and economic development initiatives issued by the Chinese Communist Party since 1953 in the People's Republic of China.
+
+After reestablishing a functioning economic base, China, under the leadership of Chairman Mao Zedong and Premier Zhou Enlai, pursued a socialist transformation heavily influenced by Soviet methods. China's First Five-Year Plan prioritized industrial development, creating them from scratch. Government intervention increased control over industry, with private modern enterprises either sold to the state or transformed into joint public-private enterprises. Despite strains on agricultural production, the plan proved successful. “During this Plan period, China began developing a heavy-industrial base and brought its industrial production above what it had been prior to war. China also raised its agricultural production to above prewar levels, resulting primarily from gains in efficiency brought about by the reorganization and cooperation achieved through cooperative farming. Although urbanization had not been a specific goal of the plan's focus on industrialization, industrialization also prompted extensive urban growth. By 1956, China had completed its socialist transformation of the domestic economy.”[^6]
+
+[^6]: [Wikipedia: Five-year plans of China](https://en.wikipedia.org/wiki/Five-year_plans_of_China)
+
+## A Two-Step Process
+
+Based on the discussions above, I propose that the structural transformation from an agricultural state into an industrial one that happened in China is a two-step process. The first step involves a relatively “authoritarian” approach to stimulate growth in the industrial sector, whereas both labor and technology are required in the process. The second step centers around the liberalization of markets, which unleashes the power of the “invisible hand”. 
+
 
 <br>
 
