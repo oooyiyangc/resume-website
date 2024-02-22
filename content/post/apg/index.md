@@ -39,7 +39,7 @@ Followup literature suggested that there are frictions involved with workers goi
 
 {{< figure src="nakamura-sigurdsson-steinsson-2021.png" title="A very intuitive illustration in their paper">}} 
 
-## A Two-Step Process
+## Some Facts about Chinese Growth
 
 The classic view is that development is about reallocation out of agriculture into “modern” sectors[^3]. As discussed above, this involves mobility between the agricultural sector and the urban sectors. An angle to look at the Chinese growth miracle is exactly that. 
 
