@@ -47,7 +47,7 @@ The classic view is that development is about reallocation out of agriculture in
 
 
 
-{{< figure src="gollin-lagakos-waugh-2014-table-1.png" title="Structural Transformation in China (1952-2013)\nSource: https://nakedkeynesianism.blogspot.com/2014/07/structural-transformation-in-china-1952.html" >}}
+{{< figure src="sectoral_shares.jpg" title="Structural Transformation in China (1952-2013)\nSource: https://nakedkeynesianism.blogspot.com/2014/07/structural-transformation-in-china-1952.html" >}}
 
 China adopted this [three-sector accounting model](https://en.wikipedia.org/wiki/Three-sector_model), where the primary sector is mostly agricultural sector, the secondary sector is the manufacturing and industrial sector, and the tertiary sector is the service sector. We can see from the breakdown that while the size of agriculture diminished significantly, industry more or less reached its current level at the beginning of the opening period. Most of the growth in the post-liberalization period (post-1978) has been in services, which has gone hand in hand with the urbanization process.
 
