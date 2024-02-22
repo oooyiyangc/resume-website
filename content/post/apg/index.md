@@ -80,7 +80,7 @@ The structural transformation in China in the 1950s and 60s seem to fall into th
 
 The sources of variation that we can explore about Chinese growth are very limited. Causally-identified empirical work is unusually scarce, partly because of the lack of reliable, disaggregated official data, especially in the 1950s and 1960s. 
 
-However, one data source offers some promises. During the Cold War, the CIA's CORONA (1960-72) and Keyhole-9 (1972-83) spy satellites collected thousands of high-resolution, black-and-white daytime images from almost the entire land surface of the Earth[^7]. With remote sensing data, we can build a deep learning pipeline (such as [YOLO](https://arxiv.org/abs/1506.02640) for object detection) that identifies and distinguishes land used for agricultural and industrial purposes. 
+However, one data source offers some promises. During the Cold War, the CIA's CORONA and Keyhole-9 spy satellites collected thousands of high-resolution, black-and-white daytime images from almost the entire land surface of the Earth[^7]. With remote sensing data, we can build a deep learning pipeline (such as [YOLO](https://arxiv.org/abs/1506.02640) for object detection) that identifies and distinguishes land used for agricultural and industrial purposes. 
 
 We can find variation in how different towns and villages pushed the First Five-Year Plan of industrialization and explore how it contributed to the later-on economic growth. 
 
