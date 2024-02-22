@@ -76,6 +76,16 @@ Exogenous: Laws or rulings by a state, wars or conflicts, colonization, etc. tha
 
 The structural transformation in China in the 1950s and 60s seem to fall into the second category. And the United Kingdom seems to be a fixture of both: on one hand, the Industrial Revolution was underway; on the other hand, the [enclosure movement](https://en.wikipedia.org/wiki/Enclosure) drove surplus peasant labor from their farms to the towns to become industrial workers. It is considered by some scholars to be the beginnings of the emergence of capitalism.
 
+## Research Approach: Variation and Identification
+
+The sources of variation that we can explore about Chinese growth are very limited. Causally-identified empirical work is unusually scarce, partly because of the lack of reliable, disaggregated official data, especially in the 1950s and 1960s. 
+
+However, one data source offers some promises. During the Cold War, the CIA's CORONA (1960-72) and Keyhole-9 (1972-83) spy satellites collected thousands of high-resolution, black-and-white daytime images from almost the entire land surface of the Earth[^7]. With remote sensing data, we can build a deep learning pipeline (such as [YOLO](https://arxiv.org/abs/1506.02640) for object detection) that identifies and distinguishes land used for agricultural and industrial purposes. 
+
+We can find variation in how different towns and villages pushed the First Five-Year Plan of industrialization and explore how it contributed to the later-on economic growth. 
+
+[^7]: Following [Kim and Ferguson (2023)](https://oliverwkim.com/papers/oliver_kim_JMP.pdf)’s approach. 
+
 
 <br>
 
