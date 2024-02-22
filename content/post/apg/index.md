@@ -74,7 +74,7 @@ To do this, either one of the two needs to be satisfied:
 - Endogenous: A boost in efficiency in the industrial sector to allow the industrial sector to overcome the initial fixed cost to move in both labor and capital. 
 - Exogenous: Laws or rulings by a state, wars or conflicts, colonization, etc. that makes capital and labor flow to the industrial sector (even if it’s not necessary Pareto-efficient)
 
-The structural transformation in China in the 1950s and 60s seem to fall into the second category. And the United Kingdom seems to be a fixture of both: on one hand, the Industrial Revolution was underway; on the other hand, the [enclosure movement](https://en.wikipedia.org/wiki/Enclosure) drove surplus peasant labor from their farms to the towns to become industrial workers. It is considered by some scholars to be the beginnings of the emergence of capitalism.
+The structural transformation in China in the 1950s and 60s seem to fall into the second category. And England seems to be a fixture of both: on one hand, the Industrial Revolution was underway; on the other hand, the [enclosure movement](https://en.wikipedia.org/wiki/Enclosure) drove surplus peasant labor from their farms to the towns to become industrial workers. It is considered by some scholars to be the beginnings of the emergence of capitalism.
 
 ## Research Approach: Variation and Identification
 
