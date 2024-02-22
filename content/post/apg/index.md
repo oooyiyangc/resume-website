@@ -54,7 +54,7 @@ China adopted this [three-sector accounting model](https://en.wikipedia.org/wiki
 
 There can be multiple ways to explain how China attained a high level of growth in the industrial sector in the 50s and continued in the 60s. First, the data is flawed and there are huge mismeasurements. There is a collection of literature that discusses this. Second, if we believe the data is telling the truth–the structural transformation was already starting to take place before either opening up or the Household Responsibility System (HRS)[^5]–then we may want to give some credit to the central planning that took place in the 50s and 60s. 
 
-[^5]: See [wikipedia](). Also [Lin (1988)](https://www.jstor.org/stable/1566543) is a famous one on this system.  
+[^5]: See [wikipedia](). Also [Lin (1988)](https://www.jstor.org/stable/1566543) is a highly-cited paper discussing HRS. 
 
 ## The Five-Year Plan
 
