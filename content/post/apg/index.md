@@ -51,22 +51,22 @@ The classical view is that development is about reallocation out of agriculture 
 
 {{< figure src="sectoral_shares.jpg" title="Structural Transformation in China (1952-2013)\nSource: https://nakedkeynesianism.blogspot.com/2014/07/structural-transformation-in-china-1952.html" >}}
 
-China has adopted this [three-sector accounting model] (https://en.wikipedia.org/wiki/Three-sector_model), where the primary sector is mostly agriculture, the secondary sector is heavy industry and manufacturing, and the tertiary sector is services. From the breakdown, we can see that the size of the agricultural sector declined significantly over time, while the industrial sector more or less reached its current level at the beginning of the opening period. Most of the growth in the post-liberalization period (after 1978) has been in services, which has gone hand in hand with the urbanization process.[^4]
+China has adopted this [three-sector accounting model](https://en.wikipedia.org/wiki/Three-sector_model), where the primary sector is mostly agriculture, the secondary sector is heavy industry and manufacturing, and the tertiary sector is services. From the breakdown, we can see that the size of the agricultural sector declined significantly over time, while the industrial sector more or less reached its current level at the beginning of the opening period. Most of the growth in the post-liberalization period (after 1978) has been in services, which has gone hand in hand with the urbanization process.[^4]
 
 [^4]: Note that the large increase in the secondary sector share could be a result of the decline in the primary sector during the Great Leap Forward, since the percentages must add up to 100%. But if the decline in the primary sector were the sole driver of this movement, we would also see a large increase in the tertiary sector, which is not really the case here. This suggests that at least some of this large increase in the secondary sector is real.
 
 There are a number of ways to explain how China achieved high industrial growth in the 1950s and continued to do so in the 1960s. First, the data could be flawed and there could be huge mismeasurements. There is a whole body of literature discussing this, so I won't go into it here. Second, if we believe that the data are telling the truth-that the structural transformation began before either the opening or the Household Responsibility System (HRS)[^5]-then we might want to reconsider the economic impact of the central planning that took place in the 1950s and 1960s.
 
-[^5]: See [wikipedia](). Also [Lin (1988)](https://www.jstor.org/stable/1566543) is a highly-cited paper discussing HRS. 
+[^5]: See [wikipedia](https://en.wikipedia.org/wiki/Household_responsibility_system). Also [Lin (1988)](https://www.jstor.org/stable/1566543) is a highly-cited paper discussing HRS. 
 
 ## The Five-Year Plan
 
-[The Five-Year Plans (https://en.wikipedia.org/wiki/Five-year_plans_of_China) are a series of social and economic development initiatives issued by the Chinese Communist Party since 1953 in the People's Republic of China - they are both industrial policies and a manifestation of central planning.
+[The Five-Year Plans](https://en.wikipedia.org/wiki/Five-year_plans_of_China) are a series of social and economic development initiatives issued by the Chinese Communist Party since 1953 in the People's Republic of China - they are both industrial policies and a manifestation of central planning.
 
 After restoring its economic base, China, led by Chairman Mao Zedong and Premier Zhou Enlai, pursued socialist transformation. The First Five Year Plan, which ran from 1953 to 1957, was based on a Soviet model for economic and industrial expansion. It marked a shift in focus from peasants to urban industrial projects. The plan emphasized key tasks, including the construction of 694 large and medium-sized industrial projects. The Soviet Union aided in 156 projects, laying the primary foundations for China's socialist industrialization.
 
 
-{{< figure src="industry_map.jpg" title="Distribution of Industry in First Five-Year Plan (Poster) Source: https://chineseposters.net/posters/e15-778 See another version in English from LoC: https://www.loc.gov/resource/g7821m.ct002157/ ">}}
+{{< figure src="industry_map.jpg" title="Distribution of Industry in First Five-Year Plan (Poster) &#13;Source: https://chineseposters.net/posters/e15-778 &#13;See another version in English from LoC: https://www.loc.gov/resource/g7821m.ct002157/ ">}}
 
 Despite strains on agricultural production, the plan proved successful. “During this Plan period, China began developing a heavy-industrial base and brought its industrial production above what it had been prior to war. China also raised its agricultural production to above prewar levels, resulting primarily from gains in efficiency brought about by the reorganization and cooperation achieved through cooperative farming. Although urbanization had not been a specific goal of the plan's focus on industrialization, industrialization also prompted extensive urban growth. By 1956, China had completed its socialist transformation of the domestic economy.”[^6]
 
