@@ -1,12 +1,15 @@
 ---
 title: "Too Much Capital Stock? "
 date: 2023-10-29T00:37:01.137Z
-draft: true
+draft: false
 featured: false
 image:
   focal_point: Smart
   preview_only: true
   caption: "Image Credit: [Wikipedia](https://en.wikipedia.org/wiki/Ramsey%E2%80%93Cass%E2%80%93Koopmans_model)"
+_build:
+  render: always
+  list: never
 ---
 
 In Ramsey-Cass-Koopmans model, the transversality condition is usually imposed to rule out a series of dynamic paths. The transversality condition requires the present value of the state variables to converge to zero as the planning horizon recedes towards infinity. The intuition, as Robert Barro and Xavier Sala-i-Martin explained in their textbook _Economic Growth_, is that "optimizing agents do not want to have any valuable assets left over at the end" and that "it would be suboptimal for
