@@ -1,6 +1,7 @@
 ---
 title: "Structural Transformation: A Perspective from Chinese Growth Miracle"
 date: 2024-02-21T18:06:01.137Z
+lastmod: 2024-02-22T20:06:01.137Z
 draft: false
 private: true
 featured: false
@@ -16,24 +17,25 @@ categories:
   - research ideas
 ---
 
-“What drives growth in a country” has been an enduring topic in development accounting. Two things are on the top of economists’ heads: for poor countries, K/Y is low and education is low. We will mostly focus on K/Y. 
+“What drives growth in a country” has been an enduring topic in development accounting. Two things stand out in the minds of economists: for poor countries, K/Y is low and education is low. We will focus mainly on K/Y.
 
-One strand of literature started with the Lucas Paradox. Lucas presented a paradox in [his 1990 paper](https://www.jstor.org/stable/2006549) that capital does not flow from rich to poor countries even though the estimated MPK seems much higher in poor countries. [Caselli and Feyrer (2007)](https://personal.lse.ac.uk/casellif/papers/mpk.pdf) made two adjustment to this calculation and their results suggest that capital prices and MPKs are actually not very different between rich and poor countries. 
+## International Misallocation
+
+One strand of the literature began with the Lucas paradox. In [his 1990 paper](https://www.jstor.org/stable/2006549), Lucas presented a paradox that capital does not flow from rich to poor countries even though the estimated MPK seems to be much higher in poor countries. [Caselli and Feyrer (2007)](https://personal.lse.ac.uk/casellif/papers/mpk.pdf) made two adjustments to this calculation, and their results suggest that capital prices and MPKs are actually not very different between rich and poor countries.
 
 ## Sectoral Misallocation and Agricultural Productivity Gap
 
-The other strand discusses the agricultural productivity gap (APG). The discussion centers on what plagues the urban-sector development in poor countries–i.e. a large proportion of population stays within the agricultural sector even if they could be more productive in the urban sector. This is true either when looking at national accounts data or using micro-level data as in [Gollin-Lagakos-Waugh (2014)](https://www.nber.org/papers/w19628). 
+The other strand discusses the agricultural productivity gap (APG). The discussion centers on what plagues the development of the urban sector in poor countries, that is, a large share of the population remains in the agricultural sector when they could be more productive in the urban sector. This is true either when looking at national accounts data or when using micro-level data, as in [Gollin-Lagakos-Waugh (2014)](https://www.nber.org/papers/w19628).
 
 
-{{< figure src="gollin-lagakos-waugh-2014-table-1.png" >}}
+{{< figure src="gollin-lagakos-waugh-2014-table-1.png" title=”Source: Gollin-Lagakos-Waugh (2014)”>}}
 
-In their estimates, the raw APG is 3.5 and APG after all adjustments is 2.2. This deviates it from 1 as we would expect in a frictionless setting–i.e. labor will go to whichever sector that offers higher return. 
+In their estimates, the raw APG is 3.5 and the APG after all adjustments is 2.2. This deviates from 1, as we would expect in a frictionless setting - i.e., labor will go to whichever sector offers the higher return.
 
-Followup literature suggested that there are frictions involved with workers going from one sector to another. For example, education and skills[^1], social bonds[^2], etc. And more studies have focused on using quasi-experimental evidence. For example, [Nakamura-Sigurdsson-Steinsson (2021)](https://eml.berkeley.edu/~enakamura/papers/giftofmoving.pdf) paper shows that people induced to move from high income village due to volcanic eruption saw large increase in income, but they were previously not willing to do so since there is a “fixed” moving cost. (This is somewhat akin to the idea on price adjustment with a menu cost model in which people are not willing to adjust price until the costs of a suboptimal price overcome the fixed menu cost).
+Follow-up literature suggests that there are frictions associated with workers moving from one sector to another. For example, education and skills[^1], social ties[^2], etc. And more studies have focused on the use of quasi-experimental evidence. For example, [Nakamura-Sigurdsson-Steinsson (2021)](https://eml.berkeley.edu/~enakamura/papers/giftofmoving.pdf) shows that people who were induced to move from a high-income village by a volcanic eruption saw a large increase in income, but they were previously unwilling to do so because of "fixed" moving costs. (This is somewhat similar to the idea of price adjustment in a menu cost model, where firms are unwilling to adjust prices until the cost of a suboptimal price exceeds the fixed menu cost).
 
 [^1]: Young (2013) and Hamory-Kleemans-Li-Miguel (2021)
 [^2]: Munshi and Rosenzweig (2016)
-
 
 
 
@@ -41,51 +43,60 @@ Followup literature suggested that there are frictions involved with workers goi
 
 ## Some Facts about Chinese Growth
 
-The classic view is that development is about reallocation out of agriculture into “modern” sectors[^3]. As discussed above, this involves mobility between the agricultural sector and the urban sectors. An angle to look at the Chinese growth miracle is exactly that. 
+The classical view is that development is about reallocation out of agriculture into "modern" sectors[^3]. As discussed above, this involves mobility between the agricultural and urban sectors, so a crucial consideration is how to overcome the moving costs that reduce sectoral mobility. One angle to look at the Chinese growth miracle is precisely this.
 
 [^3]: Rosenstein-Rodin (1943), Nurkse (1953), Lewis (1955), Rostow (1960)
 
 
+
 {{< figure src="sectoral_shares.jpg" title="Structural Transformation in China (1952-2013)\nSource: https://nakedkeynesianism.blogspot.com/2014/07/structural-transformation-in-china-1952.html" >}}
 
-China adopted this [three-sector accounting model](https://en.wikipedia.org/wiki/Three-sector_model), where the primary sector is mostly agricultural sector, the secondary sector is the manufacturing and industrial sector, and the tertiary sector is the service sector. We can see from the breakdown that while the size of agriculture diminished significantly, industry more or less reached its current level at the beginning of the opening period. Most of the growth in the post-liberalization period (post-1978) has been in services, which has gone hand in hand with the urbanization process.[^4]
+China has adopted this [three-sector accounting model] (https://en.wikipedia.org/wiki/Three-sector_model), where the primary sector is mostly agriculture, the secondary sector is heavy industry and manufacturing, and the tertiary sector is services. From the breakdown, we can see that the size of the agricultural sector declined significantly over time, while the industrial sector more or less reached its current level at the beginning of the opening period. Most of the growth in the post-liberalization period (after 1978) has been in services, which has gone hand in hand with the urbanization process.[^4]
 
-[^4]: Note that the sharp increase in the secondary sector share could be a result from the decline in the primary sector, since they need to add up to 100%. But if the decline in the primary sector were the sole driver of this movement, we would also see a big increase in the tertiary sector, which is not really the case here. This suggests that at least some fraction of this big increase in the secondary sector is real. 
+[^4]: Note that the large increase in the secondary sector share could be a result of the decline in the primary sector during the Great Leap Forward, since the percentages must add up to 100%. But if the decline in the primary sector were the sole driver of this movement, we would also see a large increase in the tertiary sector, which is not really the case here. This suggests that at least some of this large increase in the secondary sector is real.
 
-There can be multiple ways to explain how China attained a high level of growth in the industrial sector in the 50s and continued in the 60s. First, the data could be flawed and there could be huge mismeasurements. There is a collection of literature that discusses this, so I won’t expand this here. Second, if we believe the data is telling the truth–the structural transformation was already starting to take place before either opening up or the Household Responsibility System (HRS)[^5]–then we may want to give some credit to the central planning that took place in the 50s and 60s. 
+There are a number of ways to explain how China achieved high industrial growth in the 1950s and continued to do so in the 1960s. First, the data could be flawed and there could be huge mismeasurements. There is a whole body of literature discussing this, so I won't go into it here. Second, if we believe that the data are telling the truth-that the structural transformation began before either the opening or the Household Responsibility System (HRS)[^5]-then we might want to reconsider the economic impact of the central planning that took place in the 1950s and 1960s.
 
 [^5]: See [wikipedia](). Also [Lin (1988)](https://www.jstor.org/stable/1566543) is a highly-cited paper discussing HRS. 
 
 ## The Five-Year Plan
 
-[The Five-Year Plans](https://en.wikipedia.org/wiki/Five-year_plans_of_China) are a series of social and economic development initiatives issued by the Chinese Communist Party since 1953 in the People's Republic of China.
+[The Five-Year Plans (https://en.wikipedia.org/wiki/Five-year_plans_of_China) are a series of social and economic development initiatives issued by the Chinese Communist Party since 1953 in the People's Republic of China - they are both industrial policies and a manifestation of central planning.
 
-After reestablishing a functioning economic base, China, under the leadership of Chairman Mao Zedong and Premier Zhou Enlai, pursued a socialist transformation heavily influenced by Soviet methods. China's First Five-Year Plan prioritized industrial development, creating them from scratch. Government intervention increased control over industry, with private modern enterprises either sold to the state or transformed into joint public-private enterprises. Despite strains on agricultural production, the plan proved successful. “During this Plan period, China began developing a heavy-industrial base and brought its industrial production above what it had been prior to war. China also raised its agricultural production to above prewar levels, resulting primarily from gains in efficiency brought about by the reorganization and cooperation achieved through cooperative farming. Although urbanization had not been a specific goal of the plan's focus on industrialization, industrialization also prompted extensive urban growth. By 1956, China had completed its socialist transformation of the domestic economy.”[^6]
+After restoring its economic base, China, led by Chairman Mao Zedong and Premier Zhou Enlai, pursued socialist transformation. The First Five Year Plan, which ran from 1953 to 1957, was based on a Soviet model for economic and industrial expansion. It marked a shift in focus from peasants to urban industrial projects. The plan emphasized key tasks, including the construction of 694 large and medium-sized industrial projects. The Soviet Union aided in 156 projects, laying the primary foundations for China's socialist industrialization.
+
+
+{{< figure src="industry_map.jpg" title="Distribution of Industry in First Five-Year Plan (Poster) Source: https://chineseposters.net/posters/e15-778 See another version in English from LoC: https://www.loc.gov/resource/g7821m.ct002157/ ">}}
+
+Despite strains on agricultural production, the plan proved successful. “During this Plan period, China began developing a heavy-industrial base and brought its industrial production above what it had been prior to war. China also raised its agricultural production to above prewar levels, resulting primarily from gains in efficiency brought about by the reorganization and cooperation achieved through cooperative farming. Although urbanization had not been a specific goal of the plan's focus on industrialization, industrialization also prompted extensive urban growth. By 1956, China had completed its socialist transformation of the domestic economy.”[^6]
 
 [^6]: [Wikipedia: Five-year plans of China](https://en.wikipedia.org/wiki/Five-year_plans_of_China)
 
+To summarize, Communist China achieved early-stage industrialization, especially in heavy industry[^7], in a short period of time. Meanwhile, the urban sector expanded significantly, both in terms of population and economic output. This shows that the rural-urban mobility barrier and sectoral misallocation were at least partially resolved. 
+
+[^7] The expansion of consumer goods manufacturing took place later during the opening up period. 
+
 ## A Two-Step Process
 
-Based on the discussions above, I propose that the structural transformation from an agricultural state into an industrial one that happened in China is a two-step process. The first step involves a relatively “authoritarian” approach to stimulate growth in the industrial sector, whereas both labor and technology are required in the process. The second step centers around the liberalization of markets, which unleashes the power of the “invisible hand”. 
+Based on the discussions above, I propose that the structural transformation from an agrarian economy into an industrial one that happened in China is a two-step process. The first step involves a relatively "authoritarian" approach to stimulate growth in the industrial sector and achieve early-stage industrialization (which requires both labor and technology). The second step centers around liberalizing markets, unleashing the power of the invisible hand. 
 
-While most of our focus has been on the second step that brings about a good institution, the first step should not be ignored. The goal of the first step is to overcome the “fixed cost” to achieve labor and capital mobility in the early industrialization phase. 
+While most of our focus has been on the second step, which brings about a good market structure, the first step should not be ignored. The goal of the first step is to overcome the "fixed costs" of achieving labor and capital mobility in the early stages of industrialization.
 
 To do this, either one of the two needs to be satisfied:  
 - Endogenous: A boost in efficiency in the industrial sector to allow the industrial sector to overcome the initial fixed cost to move in both labor and capital. 
-- Exogenous: Laws or rulings by a state, wars or conflicts, colonization, etc. that makes capital and labor flow to the industrial sector (even if it’s not necessarily Pareto-efficient)
+- Exogenous: Plannings, laws or rulings by a state, wars or conflicts, colonization, etc. that makes capital and labor flow to the industrial sector (it’s not necessarily Pareto-efficient, but could be socially optimal in the long run)
 
-The structural transformation in China in the 1950s and 60s seem to fall into the latter category. And England seems to be a mixture of both: on one hand, the Industrial Revolution was underway; on the other hand, the [enclosure movement](https://en.wikipedia.org/wiki/Enclosure) drove surplus peasant labor from their farms to the towns to become industrial workers. It is considered by some scholars to be the beginnings of the emergence of capitalism.
+China's structural transformation in the 1950s and 60s seems to fall into the latter category. And England seems to be a mixture of both: on one hand, the Industrial Revolution was underway; on the other hand, the [Parliamentary enclosure movement](https://en.wikipedia.org/wiki/Enclosure) drove surplus peasant labor from their farms to the cities to become industrial workers. This is considered by some scholars to be the beginning of the emergence of capitalism. (I have yet to read more about this.)
 
-## Research Approach: Variation and Identification
+## Research Approach: Identification
 
 The sources of variation that we can explore about Chinese growth are very limited. Causally-identified empirical work is unusually scarce, partly because of the lack of reliable, disaggregated official data, especially in the 1950s and 1960s. 
 
-However, one data source offers some promises. During the Cold War, the CIA's CORONA and Keyhole-9 spy satellites collected thousands of high-resolution, black-and-white daytime images from almost the entire land surface of the Earth[^7]. With remote sensing data, we can build a deep learning pipeline (such as [YOLO](https://arxiv.org/abs/1506.02640) for object detection) that identifies and distinguishes land used for agricultural and industrial purposes. 
+However, one data source offers some promises. During the Cold War, the CIA's CORONA and Keyhole-9 spy satellites collected thousands of high-resolution black-and-white daytime images of nearly the entire Earth's land surface[^8]. With remote sensing data, we can build a deep learning pipeline (such as with a [CNN](https://arxiv.org/abs/1910.12023) or [YOLO](https://arxiv.org/abs/1506.02640)) that identifies and distinguishes land used for agricultural versus industrial purposes. In addition, the [Contemporary Chinese Village Gazetteer](https://www.chinesevillagedata.library.pitt.edu/) dataset digitized by the University of Pittsburgh is another fine-grained data source.
 
-We can find variation in how different towns and villages pushed the First Five-Year Plan of industrialization and explore how it contributed to the later-on economic growth. 
+We can find variation in how different towns and villages pushed the First Five-Year Plan of industrialization (which places became the industrial centers) and explore how it contributed to the later-on economic growth. 
 
-[^7]: Following [Kim and Ferguson (2023)](https://oliverwkim.com/papers/oliver_kim_JMP.pdf)’s approach. 
-
+[^8]: Following [Kim and Ferguson (2023)](https://oliverwkim.com/papers/oliver_kim_JMP.pdf)’s approach. 
 
 <br>
 
