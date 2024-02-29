@@ -28,7 +28,7 @@ One strand of the literature began with the Lucas paradox. In [his 1990 paper](h
 The other strand discusses the agricultural productivity gap (APG). The discussion centers on what plagues the development of the urban sector in poor countries, that is, a large share of the population remains in the agricultural sector when they could be more productive in the urban sector. This is true either when looking at national accounts data or when using micro-level data, as in [Gollin-Lagakos-Waugh (2014)](https://www.nber.org/papers/w19628).
 
 
-{{< figure src="gollin-lagakos-waugh-2014-table-1.png" title=”Source: Gollin-Lagakos-Waugh (2014)”>}}
+{{< figure src="gollin-lagakos-waugh-2014-table-1.png" title="Source: Gollin-Lagakos-Waugh (2014)">}}
 
 In their estimates, the raw APG is 3.5 and the APG after all adjustments is 2.2. This deviates from 1, as we would expect in a frictionless setting - i.e., labor will go to whichever sector offers the higher return.
 
