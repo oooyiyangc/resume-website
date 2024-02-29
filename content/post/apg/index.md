@@ -74,7 +74,7 @@ Despite strains on agricultural production, the plan proved successful. “Durin
 
 To summarize, Communist China achieved early-stage industrialization, especially in heavy industry[^7], in a short period of time. Meanwhile, the urban sector expanded significantly, both in terms of population and economic output. This shows that the rural-urban mobility barrier and sectoral misallocation were at least partially resolved. 
 
-[^7] The expansion of consumer goods manufacturing took place later during the opening up period. 
+[^7]: The expansion of consumer goods manufacturing took place later during the opening up period. 
 
 ## A Two-Step Process
 
