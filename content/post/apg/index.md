@@ -3,7 +3,6 @@ title: "Structural Transformation: A Perspective from Chinese Growth Miracle"
 date: 2024-02-21T18:06:01.137Z
 lastmod: 2024-02-22T20:06:01.137Z
 draft: false
-private: true
 featured: false
 image:
   focal_point: ""
@@ -87,6 +86,8 @@ To do this, either one of the two needs to be satisfied:
 - Exogenous: Plannings, laws or rulings by a state, wars or conflicts, colonization, etc. that makes capital and labor flow to the industrial sector (it’s not necessarily Pareto-efficient, but could be socially optimal in the long run)
 
 China's structural transformation in the 1950s and 60s seems to fall into the latter category. And England seems to be a mixture of both: on one hand, the Industrial Revolution was underway; on the other hand, the [Parliamentary enclosure movement](https://en.wikipedia.org/wiki/Enclosure) drove surplus peasant labor from their farms to the cities to become industrial workers. This is considered by some scholars to be the beginning of the emergence of capitalism. (I have yet to read more about this.)
+
+> Hence economists are often torn between two conflicting perspectives: on the one hand, good economic policy should produce favorable outcomes and therefore should prove also to be good politics; on the other hand, the implementation of good economic policy is often viewed as requiring "strong" and "autonomous" (not to say authoritarian) leadership. --Dani Rodrik, _Understanding Economic Policy Reform_(1996)
 
 ## Research Approach: Identification
 
