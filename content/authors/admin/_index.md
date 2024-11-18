@@ -2,10 +2,10 @@
 title: Yiyang Chen
 role: Predoctoral Research Fellow
 avatar_filename: avatar.jpg
-bio: My research interests include macroeconomics, economic development, and deep learning.
+bio: My research interests include macroeconomics, economic growth, and deep learning.
 interests:
   - Macroeconomics
-  - Development Economics
+  - Economic Growth
   - Deep Learning
 social:
   - icon: envelope
@@ -35,13 +35,13 @@ email: ooyiyangc@gmail.com
 superuser: true
 highlight_name: true
 ---
-I am an Economics predoctoral research fellow at Harvard University with Prof. Melissa Dell, working on deep learning methods and its application in political economy and economic history. 
+I am an Economics predoctoral research fellow at Harvard University with Prof. Melissa Dell, working on deep learning methods and its application in economic history and political economy. 
 
 I have a Bachelor's degree in Economics and Computer Science at University of California, Berkeley. I served as research assistants for multiple professors and Ph.D. students at UC Berkeley, and worked on a wide variety of economic research projects and CS/DS projects. 
 
-My research interests include macroeconomics, economic development, and deep learning.
+My research interests include macroeconomics, economic growth, and deep learning.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume_Yiyang_CHEN.pdf" "newtab" >}}CV{{< /staticref >}}  
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV_Yiyang_CHEN_public.pdf" "newtab" >}}CV{{< /staticref >}}  
 {{< icon name="download" pack="fas" >}} [Senior Honor Thesis](https://www.econ.berkeley.edu/sites/default/files/CHEN_Yiyang_Spring%202022.pdf)
 
 <!-- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV_Yiyang_CHEN_public.pdf" "newtab" >}}CV{{< /staticref >}}\

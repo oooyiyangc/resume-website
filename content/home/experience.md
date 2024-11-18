@@ -32,8 +32,11 @@ experience:
     date_end: ''
     description: |2-
         · Assist Professor Melissa Dell with research related to economic history and political economy, developing deep learning methods to extract and analyze novel datasets   
-        · Developed deep learning pipeline to deduplicate and cluster newspaper scan images  
-        · Supervised training and evaluation of topic classifiers on newspaper texts; created a pipeline to incorporate GPT  
+        · Develop deep learning pipelines to classify and analyze unstructured text and image datasets
+        · Apply models to extract accusations and fact-checking practices from historical news articles, identifying geographic and temporal patterns in media circulation and sensationalism during the McCarthy era
+        · Cluster and analyze historical newspaper images to study public reactions to key events (e.g., the Vietnam War) by comparing visual narratives across wire services
+        · Build and manage technical infrastructure, including scrapers for newspaper archives and Azure pipelines for full-edition newspaper digitization, and fine-tuned NLP models to improve various topic classification
+
 
 
   - title: Research Assistant
