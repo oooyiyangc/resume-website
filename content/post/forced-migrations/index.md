@@ -35,13 +35,13 @@ One series of forced migrations I would like to look at is the "dam displacement
 
 {{< figure src="xinanjiang-today.jpg" title="Xin'anjiang Reservior today is a popular tourist attraction">}}
 
-As a starting example, I will focus on Xin'anjiang Reservior. This forced migration is very similar to [Sarvimäki et al. (2022)](https://academic.oup.com/jeea/article-abstract/20/6/2497/6624979), where Finnish farmers were forced to migrate because part of their countries were ceded to the Soviet Union after WWII. Most were resettled into areas designated by the government that would "replicate" the original soil and weather condition for agricultural activities. However, compared to the locals in the resettlement areas, these newly moved-in farmers were more likely to migrate to cities afterwards and saw an increase in their income and children's years of schooling. So the question is why didn't they move before? What was the barrier? The authors attribute this to attachment to a place or "habit formation": people accumulate location capital by living in a place. 
+As a starting example, I will focus on Xin'anjiang Reservior. This forced migration is very similar to [Sarvimäki et al. (2022)](https://academic.oup.com/jeea/article-abstract/20/6/2497/6624979), where Finnish farmers were forced to migrate because part of their countries were ceded to the Soviet Union after WWII. In the Finnish case, most farmers were resettled into areas designated by the government that would "replicate" the original soil and weather condition for agricultural activities. Interestingly, compared to the locals in the resettlement areas, these newly moved-in farmers were more likely to migrate to cities afterwards and saw an increase in their income and children's years of schooling. So the question is why didn't they move before? What was the barrier? The authors attribute this to attachment to a place or "habit formation": people accumulate location capital by living in a place. 
 
 Contrary to much of the literature on forced migration (including [Sarvimäki et al. (2022)](https://academic.oup.com/jeea/article-abstract/20/6/2497/6624979)), the economic outcome of Xin'anjiang forced migration has not been positive. Many displaced families are still among the poorest in the country, and (I need to double check this number and its source) in 2008, more than 30% of the population living in poverty previously had to migrate due to hydroelectric projects. They did not move to opportunity; they moved to poverty. 
 
 ## Liquidity Constrainst
 
-So what is different?
+So what is different? I think liquidity constrainst is the key. 
 
 In my view, assets that make up the majority of rural household wealth (such as land, houses, and farms) tend to be illiquid and difficult to sell, imposing a liquidity constraint on the farmers and thus making the short-term costs of migration prohibitively high.
 
@@ -71,7 +71,7 @@ By digitizing and examining this data, I hope to answer important questions abou
 
 ## Other evidence
 
-Another piece of recent evidence might come from examining whether spatial mobility has increased when mass relocation took place for the construction of highways, railroads, infrastructure, or urban renewal. In other cases, local government initiatives to revitalize rural real estate (farmlands are repurposed as tourist destinations; rural homes as "Airbnbs"—once hard-to-sell properties now high on brokers' lists) may offer additional insights. 
+Other pieces of evidence might come from examining whether spatial mobility has increased when mass relocation took place for the construction of highways, railroads, infrastructure, or urban renewal. Difference in compensation may affect the ultimate economic outcome. In other cases, local government initiatives to revitalize rural real estate (farmlands are repurposed as tourist destinations; rural homes as "Airbnbs"—once hard-to-sell properties now high on brokers' lists) may offer additional insights. 
 
 Going forward, I intend to expand my research by systematically studying the relationship between migration and economic growth in the context of historical and contemporary economic miracles around the world (e.g. the European rural-urban migration during the Industrial Revolution, the Great Migration of African Americans, China's "Third Front" movement) I aim to disentangle the symbiotic and causal relationships between migration and economic growth.  
 
